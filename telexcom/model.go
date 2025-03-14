@@ -79,7 +79,7 @@ var IntegrationJson = Integration{
 				Default:  "",
 			},
 		},
-		TargetURL: "https://support-ai-hsd0.onrender.com/target",
+		TargetURL: "https://support-ai-uuyb.onrender.com/target",
 		TickURL:   "",
 	},
 }
